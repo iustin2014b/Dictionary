@@ -1,0 +1,19 @@
+.mainDiv {
+  text-align: center;
+}
+
+#button {
+  position: relative;
+  right: -30px;
+  background-color: green;
+  color: white;
+}
+
+#inputBox {
+  position: relative;
+  right: -20px;
+}
+#msg {
+  position: relative;
+  right: 40px;
+}
